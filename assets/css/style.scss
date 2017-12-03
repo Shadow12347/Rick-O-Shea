@@ -7,8 +7,19 @@ section {
   padding: 0px 0px 50px 0px;
   margin: 20px 0;
   margin-top: 0px;
-
+  
+  #title_background {
+    background-color: #000;
+    height: 366px;
+    width: 100%
+    border: 0;
+    outline: none;
+    margin: 0 0 50px 0;
+    padding: 0 0 5px 0;
+  }
+  
   #title2 {
+    
     background-image: url("https://raw.githubusercontent.com/azheng888/Rick-O-Shea/master/Title_PS.resized.jpg");
     height: 366px;
     width: 650px;
