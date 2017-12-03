@@ -1,4 +1,4 @@
-_Rick O'Shea_ is a top down horror shooter video game developed by Project Reality. It was inspired by games such as _Hotline Miami_ and _Enter the Gungeon_. It was developed and released in 2017 for PC. The game mixes a top down perspective with creative violence and fun storytelling, along with lively visuals and a soundtrack produced by _Arsonist_. 
+_Rick O'Shea_ is a top down horror shooter video game developed by Project Reality. It was inspired by games such as _Hotline Miami_ and _Enter the Gungeon_. It was developed and released in 2017 for PC. The game mixes a top down perspective with creative violence and fun storytelling, along with lively visuals and a soundtrack produced by _Illuminate_. 
 
 ![Screenshot1](https://raw.githubusercontent.com/azheng888/Rick-O-Shea/master/Bedroom-Example.jpg)
 
