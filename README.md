@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[This is an image]( /Title.png "Title image")
+![Title](https://raw.githubusercontent.com/azheng888/Rick-O-Shea/master/Title.png)
 Markdown is a lightweight and easy-to-use syntax for styling your writi/ng. It includes conventions for
 
 ```markdown
