@@ -6,6 +6,8 @@ _Rick O'Shea_ is a top down horror shooter video game developed by Project Reali
 ### Who is _Rick O'Shea_?
 
 Rick O'Shea is a teenage Irishman. On one cold and stormy night, Rick felt a strange sensation, like something had gone very, very wrong. In the morning, he woke with a start. _Where am I?_ he said, touching the dried blood on his forehead. Around him is an unfamiliar bedroom. Grabbing the bizarre plasma gun on the nightstand, he opens the door to investigate, finding a disturbing house full of creatures. He realizes one thing. He needs to get out now.
+
+
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
@@ -21,7 +23,7 @@ _Rick O'Shea_ is a top down survival shooter. You control Rick as he works his w
 
 ### Contact Us
 
-**Project Reality**
+Project Reality
 
 _TheRealProjectReality@gmail.com_
 
