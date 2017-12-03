@@ -18,7 +18,6 @@
     margin: 0 auto;
     padding: 0 10px;
     background: blue;
-    margin: auto;
 
     li {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -54,8 +53,9 @@
       }
 
       &.fork {
-        float: left;
-        margin-left: 0px;
+        /*float: left;*/
+        margin: auto;
+        /*margin-left: 0px;*/
       }
 
       &.downloads {
