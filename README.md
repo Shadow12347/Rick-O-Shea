@@ -23,11 +23,11 @@ _Rick O'Shea_ is a top down survival shooter. You control Rick as he works his w
 
 ### Contact Us
 
-Project Reality
+**Project Reality**
 
 _TheRealProjectReality@gmail.com_
 
 _Humanities Gateway 1800 University of California Irvine, CA 92617_
 
 
-Copyright Project Reality 2017
+_Copyright Project Reality 2017_
