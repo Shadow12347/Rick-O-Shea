@@ -83,7 +83,7 @@ section {
 
       a {
         color: white;
-        border: 1px solid #830101;
+        border: 1px solid #610B0B;
         background: linear_gradient(#830101, #610B0B);
         border-radius: 2px;
         box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
@@ -97,9 +97,9 @@ section {
         text-align:center;
 
         &:hover {
-          background: linear_gradient(#610B0B, #610B0B);
+          background: linear_gradient(#610B0B, #3B0B0B);
           background-color: #610B0B;
-          border: 1px solid #610B0B;
+          border: 1px solid #3B0B0B;
           box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
         }
       }
