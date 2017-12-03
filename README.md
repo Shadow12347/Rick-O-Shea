@@ -1,23 +1,16 @@
-## Who Is Rick O'Shea?
+Rick O'Shea is ..................................
+.................................................
+.................................................
+Placeholder text.................................
 
-You can use the [editor on GitHub](https://github.com/azheng888/rick-o-shea/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Screenshot1](https://raw.githubusercontent.com/azheng888/Rick-O-Shea/master/Bedroom-Example.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who is Rick O'Shea?
 
-### Markdown
+Narrative placeholder text.....................................
+...............................................................
+...............................................................
 
-![Title](https://raw.githubusercontent.com/azheng888/Rick-O-Shea/master/Title.png)
-Markdown is a lightweight and easy-to-use syntax for styling your writi/ng. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
