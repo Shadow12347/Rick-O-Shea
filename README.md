@@ -10,7 +10,7 @@ Rick O'Shea is a teenage Irishman. On one cold and stormy night, Rick felt a str
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="650" height="366" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 <br>
 
 ### Gameplay
