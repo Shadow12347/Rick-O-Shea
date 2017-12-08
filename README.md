@@ -14,7 +14,7 @@ Rick O'Shea is a teenage Irishman. On one cold and stormy night, Rick felt a str
 <br>
 
 ### Gameplay
-_Rick O'Shea_ is a top down survival shooter. You control Rick as he works his way through this disturbing house looking for the way out. You must find the final exit in order to complete the game. Throughout the house are terrifyig creatures who will attack on first glance. Luckily Rick carries his new trusty plasma gun which fires deadly plasma bolts capable of destroying a creature in one hit. However, there's one catch. These bolts ricochet off walls. While this enables creative angles for defending yourself, it can also be a danger to Rick if you're not careful. 
+_Rick O'Shea_ is a top down survival shooter. You control Rick as he works his way through this disturbing house looking for the way out. You must find the final exit in order to complete the game. Throughout the house are terrifying creatures who will attack on first glance. Luckily Rick carries his new trusty plasma gun which fires deadly plasma bolts capable of destroying a creature in one hit. However, there's one catch. These bolts ricochet off walls. While this enables creative angles for defending yourself, it can also be a danger to Rick if you're not careful. 
 
 - **Fight for your life against legions of loathsome brutes!**
 - **Use the walls to your advantage and creatively dispatch your foes!**
