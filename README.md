@@ -11,7 +11,7 @@ Rick O’Shea is an average teenage boy. One day a letter arrives. His great unc
 On one cold and stormy night, Rick is settling in when he can’t escape a strange sensation, like something has gone very, very wrong.
 
 
-On his first night, as the clock struck midnight, he wakes with a start. _Where am I?_ he said, touching the dried blood on his forehead. Around him is an unfamiliar bedroom. Grabbing the bizarre-looking plasma gun on the nightstand, he begins to investigate, finding a disturbing house full of creatures. He realizes one thing. He needs to get out now. 
+On his first night, as the clock struck midnight, he wakes with a start. _Where am I?_ he pondered, touching the dried blood on his forehead. Around him is an unfamiliar bedroom. Grabbing the bizarre-looking plasma gun on the nightstand, he begins to investigate, finding a disturbing house full of creatures. He realizes one thing. He needs to get out now. 
 
 
 <br>
