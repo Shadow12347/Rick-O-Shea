@@ -5,7 +5,7 @@ _Rick O'Shea_ is a top down horror shooter video game developed by Project Reali
 
 ### Who is _Rick O'Shea_?
 
-Rick O’Shea is an average teenage boy. One day a letter arrives. His great uncle Mick has passed away and left him a grand estate in a small town in Ireland. Hopping on a plane, he sets out to investigate. When he arrives in town, he finds the townsfolk to be warm and welcoming. However, when he mentions his family estate, he finds that for some reason they become distant and cold… How odd, he thinks, but nevertheless he soldiers on.
+Rick O’Shea is an average teenage boy. One day a letter arrives. His great uncle Mick has passed away and left him a grand estate in a small town in Ireland. Hopping on a plane, he sets out to investigate. When he arrives in town, he finds the townsfolk to be warm and welcoming. However, when he mentions his family estate, he finds that for some reason they become distant and cold… _How odd_, he thinks, but nevertheless he soldiers on.
 
 
 On one cold and stormy night, Rick is settling in when he can’t escape a strange sensation, like something has gone very, very wrong.
