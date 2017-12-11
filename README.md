@@ -16,7 +16,7 @@ On his first night, as the clock struck midnight, he wakes with a start. _Where
 
 <br>
 
-<iframe src="https://www.youtube.com/embed/wAY-nCdJ2QA?rel=0?ecver=2" width="640" height="360" frameborder="0" gesture="media" allow="encrypted-media" style="position:absolute;width:100%;left:0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/wAY-nCdJ2QA?rel=0?ecver=2" width="640" height="360" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ### Gameplay
 _Rick O'Shea_ is a top down survival shooter. You control Rick as he works his way through this disturbing house looking for the way out. You must find the final exit in order to complete the game. Throughout the house are terrifying creatures who will attack on first glance. Luckily Rick carries his new trusty plasma gun which fires deadly plasma bolts capable of destroying a creature in one hit. However, there's one catch. These bolts ricochet off walls. While this enables creative angles for defending yourself, it can also be a danger to Rick if you're not careful. 
